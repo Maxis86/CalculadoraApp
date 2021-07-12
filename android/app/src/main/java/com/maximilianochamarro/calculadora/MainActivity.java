@@ -1,4 +1,6 @@
-package com.calculadora;
+//package com.calculadora;
+//package com.maximilianochamarro.calculadorarn;
+package com.maximilianochamarro.calculadora;
 import android.os.Bundle;
 
 import com.facebook.react.ReactActivity;

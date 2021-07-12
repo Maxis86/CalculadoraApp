@@ -1,5 +1,6 @@
-package com.calculadora;
-
+//package com.calculadora;
+//package com.maximilianochamarro.calculadorarn;
+package com.maximilianochamarro.calculadora;
 // react-native-splash-screen >= 0.3.1
 import org.devio.rn.splashscreen.SplashScreenReactPackage;
 
